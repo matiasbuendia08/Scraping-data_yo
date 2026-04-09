@@ -1,6 +1,7 @@
-# Scraping_data 🕷️
+# Scraping_data
 
 Tarea 1: Proyecto de Web Scraping y consumo de API REST desarrollado en Python.
+Tarea 2: Proyecto API Rest y bases de datos de juegos
 
 ## Tarea 1 — Web Scraping UNMSM
 
