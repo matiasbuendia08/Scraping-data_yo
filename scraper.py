@@ -8,6 +8,7 @@ options = webdriver.ChromeOptions()
 options.add_argument("--headless")
 driver = webdriver.Chrome(options=options)
 
+
 url = "https://admision.unmsm.edu.pe/Website20262/A/A.html"
 driver.get(url)
 time.sleep(3)
@@ -22,7 +23,6 @@ for link in links:
         carreras.append({"nombre": nombre, "url": href})
 
 print("Carreras encontradas:", len(carreras))
-
 
 todos = []
 
