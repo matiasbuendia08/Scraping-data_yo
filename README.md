@@ -1,4 +1,5 @@
 # Scraping_data
+Este es un repositorio con dos proyectos desarrollados en Python para la primera tarea
 
 Tarea 1: Proyecto de Web Scraping y consumo de API REST desarrollado en Python.
 Tarea 2: Proyecto API Rest y bases de datos de juegos
